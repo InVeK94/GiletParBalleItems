@@ -7,5 +7,5 @@ server_scripts {
 }
 
 client_scripts {
-	'client/main.lua',
+	'client/esx_GiletParBalleItems_cl.lua',
 }
